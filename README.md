@@ -2,7 +2,7 @@
 - 👀 I’m interested in any interested thing
 - 🌱 I’m currently learning PHP/Python/Databricks/Vue.js
 - 💞️ I’m looking to collaborate on good projects
-- 📫 How to reach me https://kingsharkworld.com/
+- 📫 How to reach me https://kingsharkworld.xyz/
 
 <!---
 bc-shawnwang/bc-shawnwang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
